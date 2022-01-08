@@ -2,4 +2,4 @@ React Dashboard is a react dashboard template built with Material-UI framework. 
 ![](https://i.ibb.co/8xZJsw8/image.png)
 # [Live](https://matarial-ui-react-dashboard.netlify.app/)
 
-# REACT-MATARIAL-UI-DASHBOARD
+react-dashboard
